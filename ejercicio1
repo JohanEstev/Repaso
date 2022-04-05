@@ -1,0 +1,22 @@
+"""
+Loteria=[]
+
+
+
+for i in range (5):
+    Loteria.append(int(input("ingrese el numero  ganador  : " )))
+     
+    
+Loteria.sort()
+print("Numeros" + str(Loteria))
+
+"""
+
+
+Clave="1234"
+Contrasena=""
+
+while Clave!=Contrasena:
+    Contrasena=input("Introduce la contraseña : ")
+    
+print("contraseña Correcta")
